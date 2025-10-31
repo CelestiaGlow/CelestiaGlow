@@ -1,16 +1,14 @@
-## Hi there 👋
+# 1. Clone your repo (replace YOURUSERNAME)
+git clone https://github.com/YOURUSERNAME/CelestiaGlow.git
+cd CelestiaGlow
 
-<!--
-**CelestiaGlow/CelestiaGlow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 2. Unzip your CelestiaGlow_Site_v6_youtube_pixels_aurora.zip
+# and move the contents here (replace the placeholders)
+unzip ~/Downloads/CelestiaGlow_Site_v6_youtube_pixels_aurora.zip -d .
 
-Here are some ideas to get you started:
+# 3. Add and commit everything
+git add .
+git commit -m "CelestiaGlow v6 website launch"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 4. Push to GitHub
+git push origin main
